@@ -1,6 +1,6 @@
-﻿^bk[id=1.en]Mao Zedong Anthology|MZD
+﻿^bk1 Mao Zedong Anthology|MZD
 ^v1
-^c1 ANALYSIS OF THE CLASSES IN CHINESE SOCIETY
+^ck1[ANALYSIS OF THE CLASSES IN CHINESE SOCIETY]
 March ^ad1926
 ^intro This article was written by Comrade Mao Tse-tung to combat two deviations then to be found in the Party.
  The exponents of the first deviation, represented by Chen Tu-hsiu, were concerned only with co-operation with the Kuomintang and forgot about the peasants; this was Right opportunism.
@@ -100,7 +100,7 @@ In economically backward and semi-colonial China the landlord class and the comp
  The leading force in our revolution is the industrial proletariat.
  Our closest friends are the entire semi-proletariat and petty bourgeoisie.
  As for the vacillating middle bourgeoisie, their right-wing may become our enemy and their left-wing may become our friend but we must be constantly on our guard and not let them create confusion within our ranks.
-^c2 REPORT ON AN INVESTIGATION OF THE PEASANT MOVEMENT IN HUNAN
+^ck2[REPORT ON AN INVESTIGATION OF THE PEASANT MOVEMENT IN HUNAN]
 March 1927
 ^intro This article was written as a reply to the carping criticisms both inside and outside the Party then being leveled at the peasants' revolutionary struggle.
  Comrade Mao Tse-tung spent thirty-two days in Hunan Province making an investigation and wrote this report in order to answer these criticisms.
@@ -642,7 +642,7 @@ All the fourteen deeds enumerated above have been accomplished by the peasants u
  Only the local tyrants and evil gentry, I think, will call them bad.
  Curiously enough, it is reported from Nanchang ^f32 that Chiang Kai-shek, Chang Ching-chiang ^f33 and other such gentlemen do not altogether approve of the activities of the Hunan peasants.
  This opinion is shared by Liu Yueh-chih ^f34 and other right-wing leaders in Hunan, all of whom say, "They have simply gone Red." But where would the national revolution be without this bit of Red? To talk about "arousing the masses of the people" day in and day out and then to be scared to death when the masses do rise--what difference is there between this and Lord Sheh's love of dragons? ^f35
-^c3 WHY IS IT THAT RED POLITICAL POWER CAN EXIST IN CHINA?
+^ck3[WHY IS IT THAT RED POLITICAL POWER CAN EXIST IN CHINA?]
 October 5, ^ad1928
 ^intro This article was part of the resolution, originally entitled "The Political Problems and the Tasks of the Border Area Party Organization", which was drafted by Comrade Mao Tse-tung for the Second Party Congress of the Hunan-Kiangsi Border Area.
 ^za1 I. THE INTERNAL POLITICAL SITUATION
@@ -728,7 +728,7 @@ The Party in the border area has another task, namely, the consolidation of the 
  The Five Wells mountain area at the juncture of Yunghsin, Linghsien, Ningkang and Suichuan Counties, and the Chiulung mountain area at the juncture of Yunghsin, Ningkang, Chaling and Lienhua Counties, both of which have topographical advantages, are important military bases not only for the border area at present, but also for insurrections in Hunan, Hupeh and Kiangsi in the future, and this is particularly true of Five Wells, where we have the support of the people as well as a terrain that is especially difficult and strategically important.
  The way to consolidate these bases is, first, to construct adequate defences, second, to store sufficient grain and, third, to set up comparatively good Red Army hospitals.
  The Party in the border area must strive to perform these three tasks effectively.
-^c4 THE STRUGGLE IN THE CHINGKANG MOUNTAINS
+^ck4[THE STRUGGLE IN THE CHINGKANG MOUNTAINS]
 November 25, ^ad1928
 ^intro This was a report submitted by Comrade Mao Tse-tung to the Central Committee of the Communist Party of China comparatively stable, as it was in the southern provinces after April this year, our strategy must be one of gradual advance. In such a period, the worst thing in military affairs is to divide our forces for an adventurous advance, and the worst thing in local work (distributing land, establishing political power, expanding the Party and organizing local armed forces) is to scatter our personnel and neglect to lay a solid foundation in the central districts. The defeats which many small Red areas have suffered have been due either to the absence of the requisite objective conditions or to subjective mistakes in tactics. Mistakes in tactics have been made solely because of failure to distinguish clearly between the two kinds of period, that in which the regime of the ruling classes is temporarily stable and that in which it is split up. In a period of temporary stability, some comrades advocated dividing our forces for an adventurous advance and even proposed leaving the defence of extensive areas to the Red Guards alone, as though oblivious of the fact that the enemy could attack not merely with the landlords' levies but even in concentrated operations with regular troops. In local work, they utterly neglected to lay a solid foundation in the central districts and attempted unrestricted expansion regardless of whether it was within our capacity. If anyone advocated a policy of gradual advance in military operations or a policy of concentrating our effort in local work on laying a solid foundation in the central districts so as to secure an invincible position, they dubbed him a "conservative". Their wrong ideas were the root cause of the defeats sustained last August by the Hunan-Kiangsi border area and by the Fourth Red Army in southern Hunan.
 ^za1 THE INDEPENDENT REGIME IN THE HUNAN-KIANGSI BORDER AREA AND THE AUGUST DEFEAT
@@ -1151,7 +1151,7 @@ We are not yet in a period when the regime of the landlord class has split up, a
  Consider the soldiers. Because the warlords are making the "bandit-suppression" campaign against the border area their major task and are issuing such statements as "a year has been spent and a million dollars used up in the effort to suppress the bandits" (Lu Ti-ping), or the Red Army "has 20,000 men with 5,000 rifles" (Wang Chun), the attention of their soldiers and disheartened junior officers is gradually turned towards us, and more and more of them will break away from the enemy to join our ranks, thus providing the Red Army with another source of recruitment.
  Besides, the fact that the Red Flag has never been lowered in the border area shows at once the strength of the Communist Party and the bankruptcy of the ruling classes, and this is of nation-wide political significance.
  Therefore, we hold, as we have always held, that it is absolutely necessary and correct to build up and expand Red political power in the middle section of the Lohsiao mountain range.
-^c5 ON CORRECTING MISTAKEN IDEAS IN THE PARTY
+^ck5[ON CORRECTING MISTAKEN IDEAS IN THE PARTY]
 December ^ad1929
 ^intro This article was a resolution drawn up by Comrade Mao Tse-tung for the Ninth Party Congress of the Fourth Army of the Red Army.
  The building of the Chinese people's armed forces was a difficult process.
@@ -1320,7 +1320,7 @@ The Party organization in the Red Army has already waged struggles against putsc
 The methods of correction are as follows:
 ^n1 Eradicate putschism ideologically.
 ^n2 Correct putschist behaviour through rules, regulations and policies.
-^c6 A SINGLE SPARK CAN START A PRAIRIE FIRE
+^ck6[A SINGLE SPARK CAN START A PRAIRIE FIRE]
 January 5, ^ad1930
 ^intro This was a letter written by Comrade Mao Tse-tung in criticism of certain pessimistic views then existing in the Party.
 Some comrades in our Party still do not know how to appraise the current situation correctly and how to settle the attendant question of what action to take.
@@ -1460,7 +1460,7 @@ This proposal to contend for Kiangsi erred only in setting a time limit of one y
  And thirdly, unlike Kwangtung which is close to Hongkong and under British control in almost every respect, Kiangsi is comparatively remote from imperialist influence.
  Once we have grasped these three points, we can understand why rural uprisings are more widespread and the Red Army and guerrilla units more numerous in Kiangsi than in any other province.
 How then should we interpret the word "soon" in the statement, "there will soon be a high tide of revolution"? This is a common question among comrades. Marxists are not fortune-tellers. They should, and indeed can, only indicate the general direction of future developments and changes; they should not and cannot fix the day and the hour in a mechanistic way. But when I say that there will soon be a high tide of revolution in China, I am emphatically not speaking of something which in the words of some people "is possibly coming", something illusory, unattainable and devoid of significance for action. It is like a ship far out at sea whose mast-head can already be seen from the shore; it is like the morning sun in the east whose shimmering rays are visible from a high mountain top; it is like a child about to be born moving restlessly in its mother's womb.
-^c7 ^notranslation
+^ck7[^notranslation]
 
 
 
@@ -1538,7 +1538,7 @@ How then should we interpret the word "soon" in the statement, "there will soon 
 
 
 
-^c8 PAY ATTENTION TO ECONOMIC WORK
+^ck8[PAY ATTENTION TO ECONOMIC WORK]
 August 20, ^ad1933
 ^intro This speech was delivered at the economic construction conference of seventeen counties in southern Kiangsi in August 1933.
 The growing intensity of the revolutionary war makes it imperative for us to mobilize the masses in order to launch an immediate campaign on the economic front and undertake all possible and necessary tasks of economic construction.
@@ -1639,7 +1639,7 @@ Fourthly, economic construction today is inseparable not only from the general t
  Everybody understands that without Red Army victories the economic blockade would be still tighter.
  On the other hand, economic growth and a better life for the masses will undoubtedly be of great help to the work of expanding the Red Army and inspiring the masses to march eagerly to the front.
  To sum up, if we achieve all the above tasks, including the very important new one of economic construction, and if we make them all serve the revolutionary war, then victory in the revolutionary war will undoubtedly be ours.
-^c9 HOW TO DIFFERENTIATE THE CLASSES IN THE RURAL AREAS
+^ck9[HOW TO DIFFERENTIATE THE CLASSES IN THE RURAL AREAS]
 October ^ad1933
 ^intro Comrade Mao Tse-tung wrote this document in October 1933 to rectify the deviations that hat occurred in the work of land reform and to provide a correct solution for the land problem. It was adopted by the Workers' and Peasants' Democratic Central Government of that time as establishing the criteria for determining class status in the rural areas.
 ^za1 I. THE LANDLORD
@@ -1673,7 +1673,7 @@ In general, a middle peasant does not need to sell his labour power, while the p
 ^za5 V. THE WORKER
 The worker (including the farm labourer) as a rule owns no land or farm implements, though some do own a very small amount of land and very few farm implements.
  Workers make their living wholly or mainly by selling their labour power.
-^c10 OUR ECONOMIC POLICY
+^ck10[OUR ECONOMIC POLICY]
 January 23, ^ad1934
 ^intro This report was given by Comrade Mao Tse-tung at the Second National Congress of Workers' and Peasants' Representatives held in Juichin, Kiangsi Province in January 1934.
 Only the Kuomintang warlords who have brought the areas under their own rule to the brink of bankruptcy have the utter shamelessness to spread the rumour, day in day out, that the Red areas are in a state of total collapse.
@@ -1748,7 +1748,7 @@ Thrift should be the guiding principle in our government expenditure.
  Our methods of spending state revenue must be strictly different from those of the Kuomintang.
 At a time when the country is plunged in economic disaster, when hundreds of millions of people are suffering the terrible hardships of hunger and cold, the people's government in our areas is staunchly pressing ahead with economic construction for the sake of the revolutionary war and in the interests of the nation, regardless of all the difficulties.
  The situation is perfectly clear--only by defeating imperialism and the Kuomintang and by undertaking planned, organized economic construction can we deliver the people of the whole of China from unprecedented disaster.
-^c11 BE CONCERNED WITH THE WELL-BEING OF THE MASSES, PAY ATTENTION TO METHODS OF WORK
+^ck11[BE CONCERNED WITH THE WELL-BEING OF THE MASSES, PAY ATTENTION TO METHODS OF WORK]
 January 27, ^ad1934
 ^intro This was part of the concluding speech made by Comrade Mao Tse-tung at the Second National Congress of Workers' and Peasants' Representatives held in Juichin, Kiangsi Province in January 1934.
 There are two questions which comrades have failed to stress during the discussion and which, I feel, should be dealt with.
@@ -1829,7 +1829,7 @@ In all the places under our leadership, there are undoubtedly many active cadres
  We must create thousands of townships like Changkang and scores of counties like Hsingkuo.
  They will be our strongholds.
  From these strongholds we should go forth to smash the enemy's "encirclement and suppression" campaigns and overthrow the rule of imperialism and the Kuomintang throughout the country.
-^c12 ON TACTICS AGAINST JAPANESE IMPERIALISM
+^ck12[ON TACTICS AGAINST JAPANESE IMPERIALISM]
 December 27, ^ad1935
 ^intro This report was given by Comrade Mao Tse-tung at the conference of Party activists which was held at Wayaopao, northern Shensi,
 ^intro after the Wayaopao meeting of the Political Bureau of the Central Committee in December 1935.
@@ -2137,7 +2137,7 @@ Ever since the monster of imperialism came into being, the affairs of the world 
  Henceforth it will continue to change to our advantage.
  We can no longer be isolated.
  This provides a necessary condition for China's victory in the war against Japan and for victory in the Chinese revolution.
-^c13 PROBLEMS OF STRATEGY IN CHINA'S REVOLUTIONARY WAR
+^ck13[PROBLEMS OF STRATEGY IN CHINA'S REVOLUTIONARY WAR]
 December ^ad1936
 ^intro Comrade Mao Tse-tung wrote this work to sum up the experience of the Second Revolutionary Civil War and used it for his lectures at the Red Army College in northern Shensi.
  Only five chapters were completed. The chapters on the strategic offensive, political work and other problems were left undone because he was too busy in consequence of the Sian Incident.
@@ -3166,7 +3166,7 @@ In establishing our own war industry we must not allow ourselves to become depen
  Our basic policy is to rely on the war industries of the imperialist countries and of our domestic enemy.
  We have a claim on the output of the arsenals of London as well as of Hanyang, and, what is more, it is delivered to us by the enemy's transport corps.
  This is the sober truth, it is not a jest.
-^c14 A STATEMENT ON CHIANG KAI-SHEK'S STATEMENT
+^ck14[A STATEMENT ON CHIANG KAI-SHEK'S STATEMENT]
 December 28, ^ad1936
 In Sian Chiang Kai-shek accepted the demand for resistance to Japan put forward by Generals Chang Hsueh-liang and Yang Hu-cheng and the people of the Northwest and, as an initial step, he has ordered his civil war troops to withdraw from the provinces of Shensi and Kansu. This marks the beginning of Chiang's reversal of his wrong policy in the past decade.^f1 It is a blow to the intrigues conducted by the Japanese imperialists and the Chinese "punitive" group ^f2 to stage-manage a civil war, foment splits and get Chiang killed in the Sian Incident. Their disappointment is already apparent. The indication that Chiang Kai-shek is beginning to wake up may be considered a sign of the Kuomintang's willingness to end the wrong policy it has pursued for ten years.
 On December 26 Chiang Kai-shek issued a statement in Loyang, the so-called "Admonition to Chang Hsueh-liang and Yang Hucheng", which is so ambiguous and evasive as to be an interesting specimen among China's political documents.
@@ -3207,7 +3207,7 @@ If Chiang can clean up the dirt created by the Kuomintang's reactionary policy o
  As early as August 25, the Communist Party promised such support to Chiang and the Kuomintang in its letter to the Kuomintang.^f7
  The people throughout the country have known for fifteen years that the Communist Party observes the maxim, "Promises must be kept and action must be resolute."
  They undoubtedly have more confidence in the words and deeds of the Communist Party than in those of any other party or group in China.
-^c15 THE TASKS OF THE CHINESE COMMUNIST PARTY IN THE PERIOD OF RESISTANCE TO JAPAN
+^ck15[THE TASKS OF THE CHINESE COMMUNIST PARTY IN THE PERIOD OF RESISTANCE TO JAPAN]
 May 3, ^ad1937
 ^intro Comrade Mao Tse-tung delivered this report at the National Conference of the Communist Party of China, held in Yenan in May 1937
 ^za1 THE PRESENT STAGE OF DEVELOPMENT OF CHINA'S EXTERNAL AND INTERNAL CONTRADICTIONS
@@ -3363,7 +3363,7 @@ It was correct to put forward the slogan of a workers' and peasants' democratic 
  To debase the class stand of the Party, to obscure its distinctive features, to sacrifice the interests of the workers and peasants to suit the needs of bourgeois reformism, is sure to lead the revolution to defeat.
  What we ask is: carry out firm revolutionary policies and strive for complete victory in the bourgeois-democratic revolution.
  To overcome the undesirable tendencies we have described, it is absolutely necessary to raise the Marxist-Leninist theoretical level of the whole Party, for Marxism-Leninism alone is the compass which can guide the Chinese revolution to victory.
-^c16 WIN THE MASSES IN THEIR MILLIONS FOR THE ANTI- JAPANESE NATIONAL UNITED FRONT
+^ck16[WIN THE MASSES IN THEIR MILLIONS FOR THE ANTI- JAPANESE NATIONAL UNITED FRONT]
 May 7, ^ad1937
 ^intro This was the concluding speech made by Comrade Mao Tse-tung at the National Conference of the Communist Party of China, held in May 1937.
 Comrades! In the course of the discussions of the last few days you have expressed agreement with my report, "The Tasks of the Chinese Communist Party in the Period of Resistance to Japan"; only a few comrades expressed different views.
@@ -3477,7 +3477,7 @@ The aim of our correct political policy and of our solid unity is to win the mas
  The formation and consolidation of the anti-Japanese national united front, the accomplishment of the task incumbent on it and the establishment of a democratic republic in China are absolutely inseparable from our effort to win over the masses.
  If we succeed in bringing millions upon millions of the masses under our leadership by such effort, our revolutionary task can be speedily fulfilled.
  By our exertions we shall surely overthrow Japanese imperialism and attain complete national and social liberation.
-^c17 ON PRACTICE
+^ck17[ON PRACTICE]
 On the Relation Between Knowledge and Practice, Between Knowing and Doing
 July ^ad1937
 ^intro There used to be a number of comrades in our Party who were dogmatists and who for a long period rejected the experience of the Chinese revolution, denying the truth that "Marxism is not a dogma but a guide to action" and overawing people with words and phrases from Marxist works, torn out of context.
@@ -3638,7 +3638,7 @@ Discover the truth through practice, and again through practice verify and devel
  Start from perceptual knowledge and actively develop it into rational knowledge; then start from rational knowledge and actively guide revolutionary practice to change both the subjective and the objective world.
  Practice, knowledge, again practice, and again knowledge. This form repeats itself in endless cycles, and with each cycle the content of practice and knowledge rises to a higher level.
  Such is the whole of the dialectical-materialist theory of knowledge, and such is the dialectical-materialist theory of the unity of knowing and doing.
-^c18 ON CONTRADICTION
+^ck18[ON CONTRADICTION]
 August ^ad1937
 ^intro This essay on philosophy was written by Comrade Mao Tse-tung after his essay "On Practice" and with the same object of overcoming the serious error of dogmatist thinking to be found in the Party at the time.
  Originally delivered as lectures at the Anti-Japanese Military and Political College in Yenan, it was revised by the author on its inclusion in his Selected Works.

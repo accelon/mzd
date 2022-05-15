@@ -3,18 +3,20 @@
     "title": "毛澤東著作集|毛",
     "description":"毛澤東之著作",
     "license": "CC0",
-    "parallels":"zh,en",
-    "label":"za,zb,zc,zd,miss,notranslation",
-    "cluster":"c",
+    "label":"za,zb,zc,zd,miss",
+    "cluster":"ck",
+    "heading":"ck",
+    "locator":"ck",
+    "lang":"zh",
     "labels":{
             "bk":["LabelBook",{"caption":"書名","resets":["c"]}], 
             "v":["Label", {"caption":"卷"}],
-           "c":["LabelChapter",{"caption":"篇名","sequencial":true}],
+           "ck":["LabelChunk",{"caption":"篇名","sequencial":true}],
  	     "ad":["LabelYear",{"caption":"公元"}],
             "intro":["Label", {"caption":"導讀"}],
           "n":["Label"],
           "se":["Label"]
     },
     "homepage":"https://github.com/accelon/mzd",
-    "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off,a-footnotes.zh.off,a1.en.off,a2.en.off,a3.en.off,a4.en.off,a5.en.off,a-footnotes.en.off"
+    "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off"
 }
