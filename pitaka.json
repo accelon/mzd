@@ -3,20 +3,21 @@
     "title": "毛澤東著作集|毛",
     "description":"毛澤東之著作",
     "license": "CC0",
-    "label":"za,zb,zc,zd,miss",
-    "cluster":"ck",
-    "heading":"ck",
-    "locator":"ck",
+    "label":"za,zb,zc,zd,miss,k,corr",
+    "chunk":"ck",
+    "locator":"bk.ck",
     "lang":"zh",
+    "lemma":"lemma.txt",
     "labels":{
-            "bk":["LabelBook",{"caption":"書名","resets":["c"]}], 
-            "v":["Label", {"caption":"卷"}],
-           "ck":["LabelChunk",{"caption":"篇名","sequencial":true}],
- 	     "ad":["LabelYear",{"caption":"公元"}],
-            "intro":["Label", {"caption":"導讀"}],
-          "n":["Label"],
-          "se":["Label"]
+            "bk":{"caption":"書名"}, 
+            "v":{"caption":"卷"},
+           "ck":{"caption":"篇名","sequencial":true,"reset":"bk"},
+ 	     "ad":{"caption":"公元"},
+            "intro":{"caption":"導讀"},
+          "n":{},
+          "se":{}
     },
+    "textOnly":true,
     "homepage":"https://github.com/accelon/mzd",
-    "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off"
+    "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a-fn.zh.off" // "a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off,a-fn.en.off,a-fn.zh.off" 
 }

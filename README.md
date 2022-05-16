@@ -21,3 +21,16 @@
 在中华人民共和国政府之法律允许的范围，以上加工，放弃所有全世界范围内基于着作权法对作品享有的权利，包括所有相关权利和邻接权利。您可以复制、修改、发行和表演本作品，甚至可用于商业性目的，都无需要求同意。
 
 详细条文 [Creative Common Zero](https://creativecommons.org/publicdomain/zero/1.0/deed.zh)
+
+
+## editable
+
+     wordhead-extra.txt //add propername
+
+## Build steps
+
+     pitaka wordhead // get wordhead-freq.txt
+     node gen-lemma.txt    // get wordhead.txt, whenever wordhead-extra.txt is touched
+     
+     pitaka build    // get pitaka js
+
