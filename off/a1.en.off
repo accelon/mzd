@@ -1,4 +1,4 @@
-﻿^bk1.en Mao Zedong Anthology|MZD
+﻿^bk1 Mao Zedong Anthology|MZD
 ^v1
 ^ck1[Analysis of the Classes in Chinese Society]
 March ^ad1926
@@ -9,19 +9,19 @@ March ^ad1926
  Comrade Mao Tse-tung pointed out that the peasantry was the staunchest and numerically the largest ally of the Chinese proletariat, and thus solved the problem of who was the chief ally in the Chinese revolution.
  Moreover, he saw that the national bourgeoisie was a vacillating class and predicted that it would disintegrate during the upsurge of the revolution, with its right-wing going over to the side of imperialism.
  This was borne out by the events of 1927.
-^li2 Who are our enemies? Who are our friends? This is a question of the first importance for the revolution.
+^z1[Who are our enemies? Who are our friends? This is a question of the first importance for the revolution.]
  The basic reason why all previous revolutionary struggles in China achieved so little was their failure to unite with real friends in order to attack real enemies.
  A revolutionary party is the guide of the masses, and no revolution ever succeeds when the revolutionary party leads them astray.
  To ensure that we will definitely achieve success in our revolution and will not lead the masses astray, we must pay attention to uniting with our real friends in order to attack our real enemies.
  To distinguish real friends from real enemies, we must make a general analysis of the economic status of the various classes in Chinese society and of their respective attitudes towards the revolution.
-^li3 What is the condition of each of the classes in Chinese society?
-^li4 The landlord class and the comprador class. ^f1
+^z2[What is the condition of each of the classes in Chinese society?]
+^z3[The landlord class and the comprador class.] ^f1
 In economically backward and semi-colonial China the landlord class and the comprador class are wholly appendages of the international bourgeoisie, depending upon imperialism for their survival ant growth.
  These classes represent the most backward and most reactionary relations of production in China and hinder the development of her productive forces.
  Their existence is utterly incompatible with the aims of the Chinese revolution.
  The big landlord and big comprador classes in particular always side with imperialism and constitute an extreme counterrevolutionary group.
  Their political representatives are the Étatistes ^f2 and the right-wing of the Kuomintang.
-^li5 The middle bourgeoisie.
+^z3[The middle bourgeoisie.]
  This class represents the capitalist relations of production in China in town and country.
  The middle bourgeoisie, by which is meant chiefly the national bourgeoisie, ^f3 is inconsistent in its attitude towards the Chinese revolution:
  they feel the need for revolution and favour the revolutionary movement against imperialism and the warlords when they are smarting under the blows of foreign capital and the oppression of the warlords,
@@ -35,7 +35,7 @@ In economically backward and semi-colonial China the landlord class and the comp
  the other is the white banner of counterrevolution held aloft by the League of Nations as the rallying point for all the counter-revolutionaries of the world.
  The intermediate classes are bound to disintegrate quickly, some sections turning left to join the revolution, others turning right to join the counter-revolution; there is no room for them to remain "independent".
  Therefore the idea cherished by China's middle bourgeoisie of an "independent" revolution in which it would play the primary role is a mere illusion.
-^li6 The petty bourgeoisie.
+^z3[The petty bourgeoisie.]
  Included in this category are the owner-peasants, ^f7 the master handicraftsmen, the lower levels of the intellectuals--students, primary and secondary school teachers, lower government functionaries, office clerks, small lawyers--and the small traders.
  Both because of its size and class character, this class deserves very close attention.
  The owner-peasants and the master handicraftsmen are both engaged in small-scale production.
@@ -60,7 +60,7 @@ In economically backward and semi-colonial China the landlord class and the comp
 
 
 
-^li7 The semi-proletariat.
+^z3[The semi-proletariat.]
  What is here called the semi-proletariat consists of five categories: (1) the overwhelming majority of the semi-owner peasants, ^f10 (2) the poor peasants, (3) the small handicraftsmen, (4) the shop assistants ^f11 and (5) the pedlars.
  The overwhelming majority of the semi-owner peasants together with the poor peasants constitute a very large part of the rural masses.
  The peasant problem is essentially their problem. The semi-owner peasants, the poor peasants and the small handicraftsmen are engaged in production on a still smaller scale than the owner-peasants and the master handicraftsmen.
@@ -79,7 +79,8 @@ In economically backward and semi-colonial China the landlord class and the comp
  The small handicraftsmen are called semi-proletarians because, though they own some simple means of production and moreover are self-employed, they too are often forced to sell part of their labour power and are somewhat similar to the poor peasants in economic status.
  They feel the constant pinch of poverty and dread of unemployment, because of heavy family burdens and the gap between their earnings and the cost of living; in this respect too they largely resemble the poor peasants. The shop assistants are employees of shops and stores, supporting their families on meagre pay and getting an increase perhaps only once in several years while prices rise every year. If by chance you get into intimate conversation with them, they invariably pour out their endless grievances.
  Roughly the same in status as the poor peasants and the small handicraftsmen, they are highly receptive to revolutionary propaganda. The pedlars, whether they carry their wares around on a pole or set up stalls along the street, have tiny funds and very small earnings, and do not make enough to feed and clothe themselves. Their status is roughly the same as that of the poor peasants, and like the poor peasants they need a revolution to change the existing state of affairs.
-^li8 The proletariat. The modern industrial proletariat numbers about two million.
+^z3[The proletariat.]
+ The modern industrial proletariat numbers about two million.
  It is not large because China is economically backward.
  These two million industrial workers are mainly employed in five industries--railways, mining, maritime transport, textiles and shipbuilding--and a great number are enslaved in enterprises owned by foreign capitalists.
  Though not very numerous, the industrial proletariat represents China's new productive forces, is the most progressive class in modern China and has become the leading force in the revolutionary movement.
@@ -92,11 +93,13 @@ In economically backward and semi-colonial China the landlord class and the comp
  Having neither land, farm implements nor funds, they can live only by selling their labour power.
  Of all the workers they work the longest hours, for the lowest wages, under the worst conditions, and with the least security of employment.
  They are the most hard-pressed people in the villages, and their position in the peasant movement is as important as that of the poor peasants.
-^li9 Apart from all these, there is the fairly large lumpen-proletariat, made up of peasants who have lost their land and handicraftsmen who cannot get work. They lead the most precarious existence of all.
+^z3[Apart from all these, there is the fairly large lumpen-proletariat,]
+ made up of peasants who have lost their land and handicraftsmen who cannot get work.
+ They lead the most precarious existence of all.
  In every part of the country they have their secret societies, which were originally their mutual-aid organizations for political and economic struggle, for instance, the Triad Society in Fukien and Kwangtung, the Society of Brothers in Hunan, Hupeh, Kweichow and Szechuan, the Big Sword Society in Anhwei, Honan and Shantung, the Rational Life Society in Chihli ^f17 and the three northeastern provinces, and the Green Band in Shanghai and elsewhere ^f18
  One of China's difficult problems is how to handle these people.
  Brave fighters but apt to be destructive, they can become a revolutionary force if given proper guidance.
-^li10 To sum up, it can be seen that our enemies are all those in league with imperialism--the warlords, the bureaucrats, the comprador class, the big landlord class and the reactionary section of the intelligentsia attached to them.
+To sum up, it can be seen that our enemies are all those in league with imperialism--the warlords, the bureaucrats, the comprador class, the big landlord class and the reactionary section of the intelligentsia attached to them.
  The leading force in our revolution is the industrial proletariat.
  Our closest friends are the entire semi-proletariat and petty bourgeoisie.
  As for the vacillating middle bourgeoisie, their right-wing may become our enemy and their left-wing may become our friend but we must be constantly on our guard and not let them create confusion within our ranks.

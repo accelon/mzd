@@ -1,0 +1,21 @@
+{
+  "name": "mzd",
+  "version": "1.0.0",
+  "description": "毛澤東全集",
+  "main": "gen-dict.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yapcheahshen@github.com/accelon/mzd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/accelon/mzd/issues"
+  },
+  "homepage": "https://github.com/accelon/mzd#readme"
+}
