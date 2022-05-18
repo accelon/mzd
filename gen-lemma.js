@@ -7,7 +7,7 @@ await nodefs;
 const wordhead_freq=readTextLines('wordhead-freq.txt') ;// created by "pitaka wordhead"
 const extra=readTextLines('wordhead-extra.txt') ;// created by "pitaka wordhead"
 const remove=readTextLines('wordhead-remove.txt') ;// created by "pitaka wordhead"
-let lemma = wordhead_freq.map(it=>it.split(',')[1]);
+let lemma = wordhead_freq.map(it=>it.split(',')).filter( ([freq,tk])=> freq>2||tk.length>2 ).map(it=>it[1]) ;
 lemma.sort(alphabetically);
 for (let i=0;i<extra.length;i++) {
 	const at=bsearch(lemma,extra[i]);

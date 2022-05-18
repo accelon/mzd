@@ -17,7 +17,7 @@
           "n":{},
           "se":{}
     },
-    "textOnly":true,
+    "fulltextsearch":true,
     "homepage":"https://github.com/accelon/mzd",
     "files":"a1.en.off,a2.en.off,a3.en.off,a4.en.off,a5.en.off,a-fn.en.off" // "a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off,a-fn.en.off,a-fn.zh.off" 
 }
