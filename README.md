@@ -47,3 +47,5 @@
      node gen-lemma.txt    // get lemma.txt, whenever wordhead-extra.txt , wordhead-freq.txt wordhead-remove.txt is touched
      
      pitaka build    // get pitaka js
+
+     release.cmd // make a bundle , need accelon21

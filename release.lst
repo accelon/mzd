@@ -1,0 +1,11 @@
+﻿mzd\*.js
+mzd-en\*.js
+..\accelon21\public\index.html
+..\accelon21\public\codemirror.css
+..\accelon21\public\codemirror.js
+..\accelon21\public\ambiance.css
+..\accelon21\public\global.css
+..\accelon21\public\main.css
+..\accelon21\public\offtext.css
+..\accelon21\public\main.js
+..\accelon21\public\favicon.svg

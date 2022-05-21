@@ -9,16 +9,16 @@
     "lang":"zh",
     "alignment":"mzd",
     "lemma":"lemma.txt",
+    "fulltextsearch":true,
     "labels":{
             "bk":{"caption":"書名"}, 
-            "v":{"caption":"卷"},
-           "ck":{"caption":"篇名","sequencial":true,"reset":"bk"},
- 	     "ad":{"caption":"公元"},
+            "vol":{"type":"LabelMilestone","caption":"卷","sequencial":true, "criterion":"range_multiple", "named":true},
+           "ck":{"caption":"篇名","sequencial":true,"reset":"bk","criterion":"zh_partial"},
+ 	       "ad":{"caption":"公元","criterion":"year"},
             "intro":{"caption":"導讀"},
           "n":{},
           "se":{}
     },
-    "fulltextsearch":true,
     "homepage":"https://github.com/accelon/mzd",
     "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a-fn.zh.off" // "a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off,a-fn.en.off,a-fn.zh.off" 
 }
