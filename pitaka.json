@@ -12,7 +12,7 @@
     "fulltextsearch":true,
     "labels":{
             "bk":{"caption":"書名"}, 
-            "vol":{"type":"LabelMilestone","caption":"卷","sequencial":true, "criterion":"range_multiple", "named":true},
+            "vol":{"type":"LabelMilestone","caption":"冊名","sequencial":true, "criterion":"range_multiple", "named":true},
            "ck":{"caption":"篇名","sequencial":true,"reset":"bk","criterion":"substring"},
  	       "ad":{"caption":"公元","criterion":"double_number"},
             "intro":{"caption":"導讀"},
