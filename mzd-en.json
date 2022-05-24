@@ -10,7 +10,7 @@
     "alignment":"mzd",
     "labels":{
             "bk":{"caption":"Book"}, 
-            "vol":{"caption":"Vol" ,"criterion":"range_multiple", "named":true},
+            "vol":{"type":"LabelMilestone","caption":"Vol" ,"sequencial":true, "criterion":"range_multiple", "named":true},
            "ck":{"caption":"Article Title","sequencial":true,"reset":"bk","criterion":"substring"},
  	     "ad":{"caption":"Year","criterion":"double_number"},
             "intro":{"caption":"Introduction"},
