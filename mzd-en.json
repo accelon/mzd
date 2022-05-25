@@ -11,7 +11,7 @@
     "labels":{
             "bk":{"caption":"Book"}, 
             "vol":{"type":"LabelMilestone","caption":"Vol" ,"sequencial":true, "criterion":"range_multiple", "named":true},
-           "ck":{"caption":"Article Title","sequencial":true,"reset":"bk","criterion":"substring"},
+           "ck":{"caption":"Article Title","sequencial":true,"reset":"bk","criterion":"substring","named":true},
  	     "ad":{"caption":"Year","criterion":"double_number"},
             "intro":{"caption":"Introduction"},
           "n":{},

@@ -3,22 +3,12 @@
     "title": "毛澤東選集|毛選",
     "description":"毛澤東選集第一冊到第五冊",
     "license": "CC0",
-    "label":"za,zb,zc,zd,miss,k,corr",
-    "chunk":"ck",
-    "locator":"bk.ck",
     "lang":"zh",
-    "alignment":"mzd",
+    "template":"omnibus",
     "lemma":"lemma.txt",
+    "alignment":"mzd",
+    "label":"za,zb,zc,zd,miss,k,corr,v,z",
     "fulltextsearch":true,
-    "labels":{
-            "bk":{"caption":"書名"}, 
-            "vol":{"type":"LabelMilestone","caption":"冊名","sequencial":true, "criterion":"range_multiple", "named":true},
-           "ck":{"caption":"篇名","sequencial":true,"reset":"bk","criterion":"substring"},
- 	       "ad":{"caption":"公元","criterion":"double_number"},
-            "intro":{"caption":"導讀"},
-          "n":{},
-          "se":{}
-    },
     "homepage":"https://github.com/accelon/mzd",
-    "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a-fn.zh.off" // "a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off,a-fn.en.off,a-fn.zh.off" 
+    "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a-fn.zh.off"
 }
