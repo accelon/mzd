@@ -3,21 +3,18 @@
     "title": "Anthology of Mao Ze Dong|mao",
     "description":"Vol.1 to Vol.5",
     "license": "CC0",
-    "label":"za,zb,zc,zd,miss,k,corr,li,notranslation",
-    "chunk":"ck",
-    "locator":"bk.ck",
+    "label":"za,zb,zc,zd,miss,k,corr,li,notranslation,v",
+    "template":"omnibus",
     "lang":"en",
     "alignment":"mzd",
     "labels":{
             "bk":{"caption":"Book"}, 
-            "vol":{"type":"LabelMilestone","caption":"Vol" ,"sequencial":true, "criterion":"range_multiple", "named":true},
-           "ck":{"caption":"Article Title","sequencial":true,"reset":"bk","criterion":"substring","named":true},
- 	     "ad":{"caption":"Year","criterion":"double_number"},
-            "intro":{"caption":"Introduction"},
-          "n":{},
-          "se":{}
+            "vol":{"caption":"Vol"},
+           "ck":{"caption":"Article Title"},
+ 	     "ad":{"caption":"Year"},
+            "intro":{"caption":"Introduction"}
     },
     "fulltextsearch":true,
     "homepage":"https://github.com/accelon/mzd",
-    "files":"a1.en.off,a2.en.off,a3.en.off,a4.en.off,a5.en.off,a-fn.en.off" // "a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a76a.zh.off,a-fn.en.off,a-fn.zh.off" 
+    "files":"a1.en.off,a2.en.off,a3.en.off,a4.en.off,a5.en.off,a-fn.en.off"
 }

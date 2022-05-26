@@ -1,6 +1,8 @@
 ﻿mzd\*.js
 mzd-en\*.js
+pitaka\*.js
 ..\accelon21\public\index.html
+..\accelon21\public\README.md
 ..\accelon21\public\codemirror.css
 ..\accelon21\public\codemirror.js
 ..\accelon21\public\ambiance.css

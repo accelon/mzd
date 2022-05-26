@@ -7,7 +7,7 @@
     "template":"omnibus",
     "lemma":"lemma.txt",
     "alignment":"mzd",
-    "label":"za,zb,zc,zd,miss,k,corr,v,z",
+    "label":"miss,k,corr,v",
     "fulltextsearch":true,
     "homepage":"https://github.com/accelon/mzd",
     "files":"a1.zh.off,a2.zh.off,a3.zh.off,a4.zh.off,a5.zh.off,a-fn.zh.off"

@@ -1,8 +1,8 @@
 {
   "name": "mzd",
   "version": "1.0.0",
-  "description": "毛澤東全集",
-  "main": "gen-dict.js",
+  "description": "毛澤東選集 中英逐句對照",
+  "main": "index.js",
   "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "CC0",
   "bugs": {
     "url": "https://github.com/accelon/mzd/issues"
   },

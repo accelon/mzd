@@ -14,6 +14,10 @@ r.linepos.length==13?pass++:0;test++;
 r=await ptk.execCriterion('vol','2,3');  //第2冊+第3冊 共 71 篇
 r.chunks.length==71?pass++:0;test++;
 
+let chunks,excerpts;
+[books,chunks,excerpts]=await ptk.cascadeCriteria({'*':'人民','ad':'','vol':'2'},{scoring:true}); 
+console.log('excerpts',excerpts.length,excerpts.slice(0,10))
+
 // console.log( unpack2(pack2([1,2,3])))
 // const r=ptk.getLabel("ad");
 // console.log(r)
