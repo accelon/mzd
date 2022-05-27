@@ -3,7 +3,7 @@
     "title": "Anthology of Mao Ze Dong|mao",
     "description":"Vol.1 to Vol.5",
     "license": "CC0",
-    "label":"za,zb,zc,zd,miss,k,corr,li,notranslation,v",
+    "label":"za,zb,zc,zd,miss,k,corr,li,notranslation,v,url",
     "template":"omnibus",
     "lang":"en",
     "alignment":"mzd",
