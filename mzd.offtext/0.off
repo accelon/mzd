@@ -1,0 +1,13 @@
+^_<ptk=mzd zh=毛選 name=main chunktag=ck>
+^:bk<caption=書 id=unique preload=true>
+^:vol
+^:ck<caption=文 id=unique  preload=true bracket=false>
+^:ad
+^:f<id=number preload=true>
+^:intro
+^:corr
+^:miss
+^:li
+^:fn<id=number preload=true>
+^:k
+^:v
