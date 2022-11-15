@@ -1,14 +1,8 @@
-^_<ptk=mzd-en zh=MZD name=main chunktag=ck>
-^:bk<caption=bk id=unique preload=true>
-^:vol
-^:ck<caption=ck  id=unique  preload=true bracket=false >
-^:ad
-^:f<id=number>
+^:<ptk=mzd-en zh=MZD name=main>
 ^:intro
 ^:corr
 ^:miss
 ^:li
-^:fn
 ^:k
 ^:v
 ^:editor

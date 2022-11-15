@@ -4,4 +4,4 @@ cd ..\accelon21
 cmd/c npm run build
 cd ..\mzd
 @rem create a zip containing files given by release.lst
-7z -tzip a mzd-2022-05-28.zip @release.lst
+7z -tzip a mzd-2022-06-03.zip @release.lst
