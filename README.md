@@ -3,6 +3,11 @@
 ## 数字底本 
 [毛泽东全集(繁简版) 安卓App](https://play.google.com/store/apps/details?id=com.zhaozhao.zhang.maozedongworks)
 
+## 開發環境安裝
+1. 按步驟安裝 [accelon22](https://github.com/accelon/accelon22)
+2. 執行 install-ptk.cmd (windows only)
+3. 打開 ..\accelon22\dist\index.html
+
 ## 注意事项
 
 1. 本数据库只是数字文本格式的加工，除了校正繁简转换的錯誤，没有对内容本身进行任何改动。
@@ -50,9 +55,3 @@ off [格式说明](https://github.com/accelon/pitaka)
      wordhead-extra.txt     // 人名及地名等词
 
 
-## Build steps
-
-     pitaka wordhead // get wordhead-freq.txt , need hydcd3/lemma.txt
-     node gen-lemma.txt    // get lemma.txt, whenever wordhead-*.txt
-     pitaka build    // get cosumable pitaka database 
-     release.cmd // make a bundle , need accelon21 (ms-windows only)
