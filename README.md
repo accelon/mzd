@@ -1,4 +1,6 @@
 # 毛泽东选集 中英逐句对照
+## 本Repo已停止維護
+請移到 [Mao-ze-dong](https://github.com/mao-ze-dong)
 
 ## 数字底本 
 [毛泽东全集(繁简版) 安卓App](https://play.google.com/store/apps/details?id=com.zhaozhao.zhang.maozedongworks)
