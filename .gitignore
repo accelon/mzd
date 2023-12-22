@@ -1,8 +1,4 @@
-﻿mzd-en
-mzd
-*.txt
-*.7z
-7z
-old
+*.ptk
+node_modules
+dist
 *.zip
-pitaka
