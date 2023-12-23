@@ -823,7 +823,7 @@ He could miraculously change at will into seventy-two different shapes, such as 
 ^fn23 The saying "Things that oppose each other also complement each other" first appeared in the History of the Earlier Han Dynasty by Pan Ku, a celebrated historian in the 1st century AD It has long been a popular saying.
 ^fn24 V. I. Lenin, "On the Question of Dialectics", Collected Works, Russ. ed., Moscow, 1958, Vol. XXXVIII, p. 358.
 ^fn25 V. I. Lenin, "Remarks on N. I. Bukharin's Economics of the Transitional Period" Selected Works, Russ. ed., Moscow-Leningrad, 1931, Vol. XI, p. 357.
-﻿^v2 THE PERIOD OF THE WAR OF RESISTANCE AGAINST JAPAN (1)
+^v2 THE PERIOD OF THE WAR OF RESISTANCE AGAINST JAPAN (1)
 ^ck19(footnotes 19)
 ^fn1 On July 7, 1937, the Japanese invading forces attacked the Chinese garrison at Lukouchiao, some ten kilometres southwest of Peking. 
 Under the influence of the ardent nation-wide anti-Japanese movement, the Chinese troops put up resistance. 
@@ -1531,7 +1531,7 @@ Exposing the plot by the Kuomintang reactionaries to attack the Communist Party 
 However, in a spirit of conciliation and compromise for the sake of maintaining unity against Japan, they agreed to shift their forces from the south to the north of the Yangtse River, while demanding the solution of a number of major outstanding issues between the Kuomintang and the Communist Party. 
 The telegram won the sympathy of the intermediate sections and served to isolate Chiang Kai-shek.
 ^fn7 Comrade Mao Tse-tung's remark about Chinese society means that the Chinese industrial proletariat which led the revolution formed only a minority of China's population, as did also the reactionary big landlords and big bourgeoisie.
-﻿^v3
+^v3
 ^ck59(footnotes 59)
 ^fn1 The Central Committee's directive of July 7, 1940 is the "Decision of the Central Committee of the Communist Party of China on the Present Situation and the Party's Policy". 
 The Central Committee's directive of December 25, 1940 is included in the , Vol. II, as the article "On Policy".
